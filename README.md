@@ -9,3 +9,5 @@ https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn or http
 
 # some key
 https://drive.google.com/open?id=1BS1J0JSOgdUFs6E9gSRFmAySjhLrwm7b
+
+# project jetson_nano_demo

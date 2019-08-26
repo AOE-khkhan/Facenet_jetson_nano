@@ -11,3 +11,4 @@ https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn or http
 https://drive.google.com/open?id=1BS1J0JSOgdUFs6E9gSRFmAySjhLrwm7b
 
 # project jetson_nano_demo
+https://drive.google.com/open?id=125T4ApO6XYx0MoHQ5GMMHa8X8y4k1QcH
